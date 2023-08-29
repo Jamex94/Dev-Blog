@@ -9,8 +9,3 @@ export default function AboutMe() {
     </main>
   );
 }
-}
-
-export default withClient({
-  AboutMe,
-});
