@@ -1,6 +1,5 @@
 export default withClient({
   AboutMe: {
-    use client: true,
   },
 });
 
